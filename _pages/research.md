@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 
-Our research combines theoretical modeling, numerical simulation, and experiments to understand the nonlinear deformation, instability, and shape transformation in slender elastic structures, intelligent soft materials, and reconfigurable mechanical systems.
+Our research combines theoretical modeling, numerical simulations, and experiments to understand the nonlinear deformation, instability, and shape transformation in slender elastic structures, intelligent soft materials, and reconfigurable mechanical systems.
 
 ---
 
