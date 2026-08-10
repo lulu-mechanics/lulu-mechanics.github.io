@@ -12,7 +12,10 @@ redirect_from:
 
 
 ## Work Experience
-* 2022.07-Present: Postdoctoral Researcher
+* 2026.08-Present: Assistant Professor
+  * Department of Engineering Mechanics, Zhejiang University, China
+    
+* 2022.07-2026.06: Postdoctoral Researcher
   * Department of Mechanical Engineering, Stanford University, United States
   * Supervisor: Professor Ruike Renee Zhao
 
