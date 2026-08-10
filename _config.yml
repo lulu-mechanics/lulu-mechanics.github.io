@@ -26,11 +26,11 @@ author:
   avatar           : "lulu.JPG"
   name             : "Dr. Lu Lu"
   pronouns         : # example: "she/her"  
-  bio              : "Postdoctoral Researcher at Stanford University"
-  location         : "Stanford, United States"
-  employer         : "Stanford University"
+  bio              : "Assistant Professor at Zhejiang University"
+  location         : "Hangzhou, China"
+  employer         : "Zhejiang University"
   uri              : # URL
-  email            : "lulu2@stanford.edu" 
+  email            : "lulu2@zju.edu.cn" 
 
   # Academic websites
   academia         : # URL
