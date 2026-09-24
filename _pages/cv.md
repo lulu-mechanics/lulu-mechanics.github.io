@@ -36,8 +36,8 @@ redirect_from:
   * School of Mechanical Engineering and Mechanics, Ningbo University, China
 
 ## Honors and Awards
-* 2026 JMPS Young Investigator Award
-* 2024 ASME Melville Medal (highest ASME honor for the best original paper), American Society of Mechanical Engineers
+* 2026 [JMPS Young Investigator Award](https://www.sciencedirect.com/journal/journal-of-the-mechanics-and-physics-of-solids/about/awards/winners-of-the-mps-young-investigator-award)
+* 2024 [ASME Melville Medal](https://www.asme.org/about-asme/honors-awards/literature-awards/melville-medal), American Society of Mechanical Engineers
 * 2020 Peking University Boya Postdoctoral Fellowship, Peking University
 * 2020 Excellent Doctoral Dissertation, Shanghai University
 * 2019 Outstanding Mechanics Student, Shanghai Society of Mechanics
