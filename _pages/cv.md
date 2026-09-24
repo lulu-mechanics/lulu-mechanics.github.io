@@ -33,7 +33,7 @@ redirect_from:
   * Supervisor: Professor Chong-Qing Ru
   
 * 2010.09-2014.06: B.S. in Engineering Mechanics
-  * School of Mechanical Engineering and Mechanics, Ningbo University, China
+  * Faculty of Mechanical Engineering and Mechanics, Ningbo University, China
 
 ## Honors and Awards
 * 2026 [JMPS Young Investigator Award](https://www.sciencedirect.com/journal/journal-of-the-mechanics-and-physics-of-solids/about/awards/winners-of-the-mps-young-investigator-award), Journal of the Mechanics and Physics of Solids
