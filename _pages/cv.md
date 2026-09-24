@@ -17,11 +17,11 @@ redirect_from:
     
 * 2022.07-2026.06: Postdoctoral Researcher
   * Department of Mechanical Engineering, Stanford University, United States
-  * Supervisor: Professor Ruike Renee Zhao
+  * Supervisor: [Professor Ruike Renee Zhao](https://zhaolab.stanford.edu/)
 
 * 2020.07-2022.06: Postdoctoral Researcher
   * School of Mechanics and Engineering Science, Peking University, China
-  * Supervisor: Professor Huiling Duan
+  * Supervisor: [Professor Huiling Duan](https://duan-lab.pku.edu.cn/news/index.htm)
 
 ## Education
 * 2014.09-2019.12: Ph.D in Solid Mechanics
