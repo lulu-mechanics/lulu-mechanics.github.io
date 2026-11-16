@@ -44,5 +44,5 @@ redirect_from:
 * 2017 National Scholarship for Graduate Students, Ministry of Education of the People’s Republic of China
   
 ## Professional Service
-* [Young Editor](https://www.amm.shu.edu.cn/EN/column/column98.shtml), Applied Mathematics and Mechanics-English Edition.
+* [Young Editor](https://www.amm.shu.edu.cn/EN/column/column98.shtml), Applied Mathematics and Mechanics (English Edition).
 * Reviewer for Proceedings of the National Academy of Sciences, Nature Communications, Journal of the Mechanics and Physics of Solids, Materials Today, International Journal of Mechanical Sciences, International Journal of Solids and Structures, Thin-Walled Structures, Engineering Structures, International Journal of Non-linear Mechanics, International Journal of Robotics Research, Journal of Applied Mechanics-ASME, Applied Mathematics and Mechanics-English Edition, Acta Mechanica, Applied Mathematical Modelling, European Journal of Mechanics / A Solids.
